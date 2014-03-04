@@ -2,4 +2,9 @@
 layout: gifs
 title: Home
 ---
-animated gifs
+
+#### {{ site.tagline }}
+
+{{ site.description }}
+
+Fork me on GitHub at [fusion94/humor](https://github.com/fusion94/humor)
