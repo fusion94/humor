@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            humor.fusion94.org
+tagline:         'Stuff I find humorous'
+description:      'Real Funny Shit'
+url:              http://humor.fusion94.org
+
+author:
+  name:           'Tony Guntharp'
+  url:            http://humor.fusion94.org
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/fusion94/humor
+
+exclude: [CONTRIBUTING.md, Gemfile, Gemfile.lock, LICENSE.md, README.md, Rakefile]
