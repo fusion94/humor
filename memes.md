@@ -1,6 +1,6 @@
 ---
-layout: gifs
-title: Animated Gifs
+layout: memes
+title: Memes
 ---
 
 #### {{ site.tagline }}
