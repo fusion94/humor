@@ -19,19 +19,6 @@
   {% include gifs-index.html %}
   </div>
 
-  <script type="text/javascript">
-    var preview = document.getElementById("preview");
-
-    function hoverListener(evt) {
-      preview.src = evt.target.href;
-    };
-
-    var links = document.getElementsByClassName("gif");
-    for(var i=0; i<links.length; i++) {
-      links[i].addEventListener("mouseover", hoverListener);
-    }
-  </script>
-
 </body>
 
 {% include closing-tags.html %}
