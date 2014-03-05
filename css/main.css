@@ -13,7 +13,7 @@ body{
   width: 300px; height: 100%;
   background-color: #F5F5F5;
   position: fixed;
-  left: 5px; top: 5px; bottom: 0;
+  left: 5px; top: 30px; bottom: 0; right: 5px;
   color: #048dc6;
   text-align: center; }
 
@@ -50,12 +50,14 @@ body{
 .gif-listing {
   margin-left: 300px;
   padding: 20px;
+  margin-top: 30px;
   overflow: hidden; }
 
 /*Style the list of categories*/
 .gif-listing > ul {
   margin: 0; padding: 0;
   list-style: none;
+  margin-top: 30px;
   /*experimental column support*/
   -moz-column-gap: 20px;
   -moz-column-fill: auto;
